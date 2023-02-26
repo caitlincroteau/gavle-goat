@@ -11,4 +11,4 @@ This repository hosts our scripts.
 - Unity
 - C#
 
-[Goat](/Users/caitlin/projects-2022-23/gavle-goat/galveGoat-gh.png)
+![Goat](/assets/images/galveGoat-gh.png)
