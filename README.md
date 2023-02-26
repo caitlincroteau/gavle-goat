@@ -4,6 +4,8 @@
 
 Collaborating with [Colton Davenport](https://github.com/ColtonDavenport) to build this game in Unity.
 
+This repository hosts our scripts.
+
 ### Tech Stack
 
 - Unity
